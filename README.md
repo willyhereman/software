@@ -5,7 +5,7 @@ and then downloading the file via the down(load) arrow. Make sure to keep the st
 
 The above would be cumbersome it there are many separate files in a folder. Therefore, we have provided a zip file per folder with the content of that folder (and subfolders). 
 
-If you want all the software: On the main repository page, click the green Code button. 3. In the menu that appears, click Download ZIP. The entire repository will be downloaded to your device as a zipped file.
+If you want all the software: On the main repository page, first click on the "<> code" icon on the top left. then click the green Code button. In the menu that appears, click Download ZIP to create a zip file. The entire repository will be downloaded to your device as a zipped file.
 
 The software is free of use and open source. It can be adjusted for your purpose. However, proper credit should be given 
 to the original developers (my students, collaborators, and myself). 
